@@ -9,7 +9,7 @@ Build a simple node server and React OR React Native application that displays i
 What we are looking for
 - Clear and legible code
 - It should be easy for us to run your project
-- A well documentated README
+- A well documented README
 
 ## How to Run
 
@@ -39,3 +39,14 @@ Because we're using JSX syntax, we need to babel-node to run the programme. In o
 ```
 NODE_ENV=production node_modules/.bin/babel-node --presets react,es2015 src/server.js
 ```
+
+#### 5) Enjoy the Minimalism of the HomePage...
+
+!["HomePage"](./src/static/img/IndexPage.png)
+
+#### 6) Click on One of the Artists
+This is what you'll be taken to.
+
+!["HomePage"](./src/static/img/DJPage.png)
+
+Enjoy the sets!
