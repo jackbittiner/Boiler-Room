@@ -2,6 +2,8 @@
 
 This application showcases my three favourite Boiler Room sets.
 
+Check it out: https://best-of-boiler-room.herokuapp.com
+
 ## The Challenge
 
 Build a simple node server and React OR React Native application that displays information about your three favourite Boiler Room sets in a web page OR mobile application. You don't need to use a database (just use static javascript objects in your server side code), but you should make a network request to your node server to fetch information about the sets (including but not limited to title, artist, and location), and then display them in a simple list.
