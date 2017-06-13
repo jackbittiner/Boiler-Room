@@ -4,3 +4,25 @@ header .logo {
   height: 400px;
   width: 400px;
 }
+
+.home .djs-selector {
+  clear: both;
+  padding: 2em;
+  text-align: center;
+}
+
+.home .djs-selector .dj-preview {
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+  display: inline-block;
+  margin: 0 1em 1em 0;
+  max-width: 400px;
+  padding: 0;
+  position: relative;
+  width: 100%;
+}
+
+.home .djs-selector .dj-preview img {
+  margin: 0;
+  width: 100%;
+}
