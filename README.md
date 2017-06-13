@@ -42,7 +42,7 @@ NODE_ENV=production node_modules/.bin/babel-node --presets react,es2015 src/serv
 
 #### 5) Enjoy the Minimalism of the HomePage...
 
-!["HomePage"](./src/static/img/IndexPage.png)
+!["HomePage"](./src/static/img/Indexpage.png)
 
 #### 6) Click on One of the Artists
 This is what you'll be taken to.
