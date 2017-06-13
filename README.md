@@ -30,7 +30,7 @@ $  git clone git@github.com:jackbittiner/Boiler-Room.git
 #### 3) Download Required Node Packages
 This uses node package manager ('npm') and it is installed at the same time as node.
 ```
-$  cd file/location/of/loops-and-cats
+$  cd file/location/of/Boiler-Room
 $  npm install
 ```
 
