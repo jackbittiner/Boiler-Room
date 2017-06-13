@@ -17,6 +17,7 @@
     "express": "^4.14.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
+    "react-player": "^0.18.0",
     "react-router": "^2.6.1"
   },
   "devDependencies": {
